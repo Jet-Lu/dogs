@@ -80,7 +80,7 @@ body {
 	z-index: 100;
 	cursor: pointer;
 	position: relative;
-	background: #393939 url(./slider-left-arrow.png) no-Repeat;
+	background: #393939 url(../images/slider-left-arrow.png) no-Repeat;
 	width: 42px;
 	height: 43px;
 	margin-left: 0px;
@@ -103,7 +103,7 @@ body {
     z-index: 100;
     cursor: pointer;
     position: relative;
-    background: #393939 url(./slider-right-arrow.png) no-Repeat 0 0;
+    background: #393939 url(../images/slider-right-arrow.png) no-Repeat 0 0;
     width: 42px;
     height: 43px;
     margin-left: 0;
@@ -256,7 +256,7 @@ body {
 }
 
 .tp-loader {
-    background: url(./loader.gif) no-repeat 10px 10px;
+    background: url(../images/loader.gif) no-repeat 10px 10px;
     background-color: #fff;
     margin: -22px -22px;
     top: 50%;

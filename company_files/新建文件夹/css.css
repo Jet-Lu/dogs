@@ -127,7 +127,7 @@ p{text-align:justify;}
 .headline_news{height:60px; width:100%; background:#f4f4f4;overflow: hidden;}
 .headline_news dl{width:1060px; height:46px; padding:7px 0; margin:0 auto;position: relative;}
 .headline_news dl a{color:#868f98;}
-.headline_news dl dt{width:154px; height:44px; padding-left:55px; border-right:1px solid #fff; float:left;}
+.headline_news dl dt{width:154px; height:44px; background:url(news_tit.jpg) left center no-repeat; padding-left:55px; border-right:1px solid #fff; float:left;}
 .headline_news dl dt h3{font-weight:normal; font-family:'微软雅黑'; font-size:20px; color:#323232;}
 .headline_news dl dt h3 span{font-family:Arial; font-size:16px; display:block; color:#868f98;}
 .headline_news dl dd{height:44px; line-height:44px; font-size:14px; font-family:'宋体'; color:#868f98; float:left;}
@@ -143,10 +143,10 @@ p{text-align:justify;}
 .f333li{float:left; width:366px; margin-top:10px;}
 .f333li ul{margin:0; padding:0}
 .f333li ul li{ list-style:none;width:366px; line-height:43px;}
-.f333li ul li a:link{padding-left: 19px;color: #f2f2f2;line-height: 25px;height: 25px;font-size: 13px;}
-.f333li ul li a:hover{padding-left: 19px;color: #ccc;line-height: 25px;height: 25px;font-size: 13px;}
-.f333li ul li a:visited{padding-left: 19px;color:#f2f2f2;line-height: 25px;height: 25px;font-size: 13px;}
-.f333li ul li a:active{padding-left: 19px;color:#f2f2f2;line-height: 25px;height: 25px;font-size: 13px;}
+.f333li ul li a:link{background: url(circle.png) 0 -20px no-repeat;padding-left: 19px;color: #f2f2f2;line-height: 25px;height: 25px;font-size: 13px;}
+.f333li ul li a:hover{background: url(circle.png) 0 0 no-repeat;padding-left: 19px;color: #ccc;line-height: 25px;height: 25px;font-size: 13px;}
+.f333li ul li a:visited{background: url(circle.png) 0 -20px no-repeat;padding-left: 19px;color:#f2f2f2;line-height: 25px;height: 25px;font-size: 13px;}
+.f333li ul li a:active{background: url(circle.png) 0 -20px no-repeat;padding-left: 19px;color:#f2f2f2;line-height: 25px;height: 25px;font-size: 13px;}
 
 .ww56{width:283px; height:285px; border:1px solid #ffcccc; margin:0; padding:0}
 .ww56 li{ height:27px; line-height:27px; list-style:none; padding:0 20px; font-size:14px; color:#444}
